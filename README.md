@@ -1,6 +1,6 @@
 ### JetsonAGX_DeepStream6.2_NvDCFtracker
 # webcam/MP4の映像から物体追跡し、CSV出力する
-#### DeepStream6.2のサンプルを少しカスタマイズしてみた
+#### DeepStream6.2のサンプルを少しカスタマイズしてみた 😺
 
 #### info.link
 ##### https://developer.nvidia.com/blog/state-of-the-art-real-time-multi-object-trackers-with-nvidia-deepstream-sdk-6-2/
