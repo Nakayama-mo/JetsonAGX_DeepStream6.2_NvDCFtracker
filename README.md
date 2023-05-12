@@ -14,9 +14,10 @@
 https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Python_Sample_Apps.html
 
 # Getting started
-- Requirements
-- install jetpack5.1 with DeepStream6.2 into Jetson AGX Xavier
-- 調整
-- run a sample app for MP4
-- run a sample apps for webcam
+1. Requirements
+2. install jetpack5.1 with DeepStream6.2 into Jetson AGX Xavier
+3. install dependency lib.(Pyds)
+4. run a sample app for MP4
+5. run a sample apps for webcam
+
 
